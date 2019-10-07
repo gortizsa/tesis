@@ -1,12 +1,12 @@
-# Proyecto de Tesis - Gian - UCV - X ciclo.
+# Thesis  - Gian - UCV - X ciclo.
 
-Esta aplicación está construida para el desarrollo del proyecto de investigación por Gianfranco O.
+This application is being built for the development of the research project by Gianfranco O.
 
-## Development - Desarrollo Internacionalizado y tecnología:
+## Development - Internationalized & Technology:
 
-Before you can build this project, you must install and configure the following dependencies on your machine:
+Before you can build this project on a local environment, you must install and configure the following dependencies on your machine:
 
-1. [Node.js][]: We use Node to run a development web server and build the project.
+1. [Node.js][]: I used Node to run a development web server and build the research project.
    Depending on your system, you can install Node either from source or as a pre-packaged bundle.
 
 After installing Node, you should be able to run the following command to install development tools.
@@ -14,7 +14,7 @@ You will only need to run this command when dependencies change in [package.json
 
     npm install
 
-We use npm scripts and [Webpack][] as our build system.
+I used npm scripts and [Webpack][] as our build system.
 
 Run the following commands in two separate terminals to create a blissful development experience where your browser
 auto-refreshes when files change on your hard drive.
