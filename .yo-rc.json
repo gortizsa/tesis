@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.thesis.tenth.backend",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.3.1",
+    "applicationType": "monolith",
+    "baseName": "tesis",
+    "packageName": "org.thesis.tenth.backend",
+    "packageFolder": "org/thesis/tenth/backend",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Y2E5ZWE5ZjdiMDE5YjZkMjEwNTc0YTU5ZmUzYTNjNGVjM2NlOTBjNzM4MmViODUxNmE2OGEwNTA0YjRjOGRlMjFkYmMyZmI3YmEwMTBjYjIxNjk4NGU5YjRjYWI5MzU4MTM3OGFiMGI2MDRlODYzOGE3ZDE2NTgzZjdmMzE5MGQ=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "flatly",
+    "clientThemeVariant": "primary",
+    "testFrameworks": ["cucumber"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "fr", "de", "it", "pt-pt", "ru", "es"],
+    "blueprints": []
+  }
+}
